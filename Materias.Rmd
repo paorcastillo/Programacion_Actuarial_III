@@ -1,0 +1,13 @@
+#Materias aprobadas:
+
+* Programación Actuarial I-8.00
+* DHPC-9.00
+* Teoría del Interés I-7.00
+* Conceptos de Cálculo-8.00
+* Matemáticas Básicas-8.00
+* Problemas de Matemáticas Básicas-8.00
+* Programación Actuarial II-9.00
+* Teoría del Interés II-7.00
+* Intr. a la Profesión Actuarial-6.00
+* Registros Académicos-8.00
+* Teoría de Ecuaciones-8.00
