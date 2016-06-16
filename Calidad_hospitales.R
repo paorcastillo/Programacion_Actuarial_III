@@ -131,3 +131,12 @@ rankingcompleto <- function(resultado, num = "mejor") {
 head(rankingcompleto("infarto", 20), 10)
 tail(rankingcompleto("neumonia", "peor"), 3)
 tail(rankingcompleto("falla"), 10)
+
+
+
+
+yt<-function(x){
+  x>31
+
+  }
+  
